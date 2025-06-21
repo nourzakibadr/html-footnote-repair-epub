@@ -23,7 +23,7 @@ This project was completed during my summer vacation as a way to practically app
 
 ### 🧩 Key Tasks Completed
 
-* Replaced 100+ broken `filepos`-based hyperlinks with readable and user-friendly footnote links (e.g. `#footnote-12`, `#backref-12`).
+* Replaced 46+ broken `filepos`-based hyperlinks with readable and user-friendly footnote links (e.g. `#footnote-12`, `#backref-12`).
 * Created bi-directional links for every footnote, allowing users to jump to the note and return seamlessly.
 * Implemented regex-based search and replace for batch operations across multiple chapter files.
 * Removed or cleaned up broken internal references caused by deleted or irrelevant content sections (e.g. table of contents).
