@@ -1,4 +1,5 @@
 ### 📘 Stiff EPUB Footnote Restoration - Linkage Project :)
+Personal Project|Summer 2025
  
 ### About the Project
 
